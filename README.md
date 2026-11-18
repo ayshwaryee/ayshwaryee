@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ayshwaryee! 👋
+# Hi, I'm Ayshwarye Kumar Vimal! 👋
 
 ### Web Developer • UI/UX Enthusiast • Learner
 
