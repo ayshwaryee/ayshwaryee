@@ -2,7 +2,7 @@
 
 # Hi, I'm Ayshwarye Kumar Vimal! 👋
 
-### Web Developer • UI/UX Enthusiast • Building
+### Full Stack Developer • UI/UX Enthusiast • Building
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayshwaryee-181717?style=for-the-badge&logo=github)](https://github.com/ayshwaryee)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](#)
