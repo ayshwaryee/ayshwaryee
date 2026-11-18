@@ -2,7 +2,7 @@
 
 # Hi, I'm Ayshwarye Kumar Vimal! 👋
 
-### Web Developer • UI/UX Enthusiast • Learner
+### Web Developer • UI/UX Enthusiast • Building
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayshwaryee-181717?style=for-the-badge&logo=github)](https://github.com/ayshwaryee)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](#)
@@ -12,11 +12,11 @@
 
 ## 👩‍💻 About Me
 
-I’m a passionate web developer focused on building responsive, user-friendly applications. I enjoy transforming ideas into clean digital experiences and continuously improving my skills in frontend development and UI/UX design.
+I’m a passionate web developer focused on building responsive, user-friendly applications. I enjoy transforming ideas into clean digital experiences and continuously improving my skills in fullstack development along with UI/UX design.
 
-- 🎓 Currently pursuing **BCA**
-- 🌱 Learning modern web technologies
-- 🎨 Interested in UI/UX design
+- 🎓 Completed **BTECH** from GGSIPU
+- 🌱 Implementing modern web technologies
+- 🎨 Interested in Full stack development
 - 🚀 Building projects and strengthening my GitHub portfolio
 - 📍 India
 
@@ -34,7 +34,6 @@ I’m a passionate web developer focused on building responsive, user-friendly a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -65,12 +64,6 @@ A link-in-bio application for organizing and sharing important links.
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/ayshwaryee/link-tree-app)
 
-## 📚 Learning & Practice
-
-- [Introduction to GitHub](https://github.com/ayshwaryee/introduction-to-github)
-- [GitHub Skills Exercise](https://github.com/ayshwaryee/skills-introduction-to-github)
-- [Didactic Octo Bassoon](https://github.com/ayshwaryee/didactic-octo-bassoon)
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -90,7 +83,7 @@ A link-in-bio application for organizing and sharing important links.
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayshwaryee-181717?style=flat-square&logo=github)](https://github.com/ayshwaryee)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayshwarye@gmail.com)
 
 <div align="center">
 
