@@ -5,8 +5,8 @@
 ### Full Stack Developer • UI/UX Enthusiast • Building
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayshwaryee-181717?style=for-the-badge&logo=github)](https://github.com/ayshwaryee)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://ayshwaryeportfolio.framer.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayshwarye/)
 
 </div>
 
